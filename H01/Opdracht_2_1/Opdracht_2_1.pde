@@ -1,0 +1,10 @@
+size(1980,1080);
+background(255,255,255);
+println("ik ben Asfandyar");
+println("ik woon inscherpenzeel");
+print("mijn hobby is Sporten");
+println("255,255,255 = groen");
+println();
+print("hoi");
+fill(0);
+text("Dit is een test bericht", 800 , 400);
