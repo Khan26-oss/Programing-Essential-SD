@@ -1,0 +1,11 @@
+size(400, 400);
+background(255); 
+stroke(0);       
+strokeWeight(2); 
+noFill();        
+circle(200, 200, 200); 
+circle(170, 180, 30);  
+circle(230, 180, 30);  
+arc(200, 220, 80, 40, 0, PI);       
+arc(170, 140, 40, 20, PI, 2*PI);     
+arc(230, 140, 40, 20, PI, 2*PI);     
