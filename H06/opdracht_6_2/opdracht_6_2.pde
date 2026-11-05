@@ -1,30 +1,30 @@
 int temperatur = -2;
-if (temperatur <=0){
-  println("je kunt schaatsen");
+if (temperatur < 0){
+  println("true");
 }
 
 int gekozen=7;
 if(gekozen != 13){
-  println("je heb geen 13 gekozen");
+  println("true");
 }
 
 int broccoli=6;
 if(broccoli > 4){
-  println("Jantje mag van de tafel");
+  println("true");
 }
 
 int vandaag = 14;
 int verjaardag =14;
 if(vandaag == 14){
-  println("krijg je cadeaus");
+  println("true");
 }
 
 int lengte=160;
 if(lengte <=160);{
-  println("Mag je gratis naar het toeilet");
+  println("true");
 } 
 
 int second= 15;
-if(second >=10);{
-  println("Word ik gelukkig");
+if(second > 0);{
+  println("true");
 }
